@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Stay Hydrated</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Stay Hydrated</string>
+    <string name="description">I will remind you to have a drink every 2 hours.\n\nSimple as that.</string>
+    <string name="dialog_title">Done!</string>
+    <string name="dialog_message">When the notification appears (in 2 hours), click "Later!" to get another notification in 15 minutes. A one time advertisement will now be shown.</string>
+
+    <string-array name="notification_messages">
+        <item>You should drink some water.</item>
+        <item>It ain\'t gonna drink itself.</item>
+        <item>Yo! Have a drink right now!</item>
+        <item>You\'re thirsty, have a drink!</item>
+        <item>Drink some water! Or juice. Whatever.</item>
+        <item>Keep your body hydrated. Drink!</item>
+        <item>Have a glass of water, please.</item>
+        <item>Have you had your dose of water yet?</item>
+        <item>Get a glass of water right now!</item>
+    </string-array>
+
+</resources>
